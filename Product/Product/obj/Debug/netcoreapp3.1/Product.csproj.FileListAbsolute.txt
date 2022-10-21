@@ -1,0 +1,14 @@
+C:\csharp\Product\Product\bin\Debug\netcoreapp3.1\Product.exe
+C:\csharp\Product\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+C:\csharp\Product\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+C:\csharp\Product\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+C:\csharp\Product\Product\bin\Debug\netcoreapp3.1\Product.dll
+C:\csharp\Product\Product\bin\Debug\netcoreapp3.1\Product.pdb
+C:\csharp\Product\Product\obj\Debug\netcoreapp3.1\Product.csproj.AssemblyReference.cache
+C:\csharp\Product\Product\obj\Debug\netcoreapp3.1\Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\Product\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+C:\csharp\Product\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+C:\csharp\Product\Product\obj\Debug\netcoreapp3.1\Product.csproj.CoreCompileInputs.cache
+C:\csharp\Product\Product\obj\Debug\netcoreapp3.1\Product.dll
+C:\csharp\Product\Product\obj\Debug\netcoreapp3.1\Product.pdb
+C:\csharp\Product\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
